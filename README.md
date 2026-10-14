@@ -2,7 +2,7 @@
 
 [![Google Advanced Data Analytics](https://img.shields.io/badge/Google-Advanced%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)](#)
 
-Este repositorio documenta mi progreso, prácticas y proyectos correspondientes al certificado profesional **Google Advanced Data Analytics**[cite: 4]. 
+Este repositorio documenta mi progreso, prácticas y proyectos correspondientes al certificado profesional **Google Advanced Data Analytics**. 
 
 El objetivo de este espacio es plasmar la aplicación práctica de los conceptos teóricos y técnicos adquiridos a lo largo de los cursos que componen el programa, reforzando mis habilidades en el análisis de datos, estadística y modelado predictivo.
 
